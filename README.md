@@ -12,12 +12,17 @@ Cara penggunaan:
 
    Jalankan Command berikut pada terminal :
    Windows
+   
    cd (C:\user\dekstop\namafolder)
+   
    Linux/MacOS
+   
    cd (/home/namaFolder)
+   
    Ubah tulisan yang ada pada dalam kurung menjadi alamat dimana anda menyimpan file "Kalkulator_Suhu.exe".
       
 6. Setelah masuk ke dalam folder, ketikkan perintah berikut :
+   
    ./Kalkulator_Suhu.exe
 7. Anda akan diminta untuk memasukkan nilai Celcius, dan secara otomatis akan mengonversi nilai tersebut ke dalam bentuk Reamur, Fahrenheit, dan Kelvin
 
