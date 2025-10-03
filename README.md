@@ -11,6 +11,7 @@ Cara penggunaan:
    Cara untuk masuk ke folder via terminal adalah sebagai berikut :
 
    Jalankan Command berikut pada terminal :
+   
    Windows
    
    cd (C:\user\dekstop\namafolder)
